@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#buton {
+    background-color: #58abb6;
+    width: 300px;
+    height: 200px;
+    border-radius: 15px;
+    border: none;
+}
